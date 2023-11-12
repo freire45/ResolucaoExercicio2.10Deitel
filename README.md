@@ -12,5 +12,5 @@ Resposta: Value of 2 + 2 is 4 <br><br>
 **c) System.out.printf(“x =”);** <br><br>
 Resposta: x = <br><br>
 
-**d) System.out.printf(“%d = %d%n”, (x + y), (y + x));**
+**d) System.out.printf(“%d = %d%n”, (x + y), (y + x));**<br><br>
 Resposta: 5 = 5 <br><br>
